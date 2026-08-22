@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://komokaductcleaning.ca/sitemap-index.xml
