@@ -1,2 +1,25 @@
 # Komoka Duct Cleaning
-HVAC services in Ontario.
+
+> Komoka Duct Cleaning is a local HVAC company serving Komoka, Middlesex, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 657-0133  |  Email: contact@komokaductcleaning.ca  |  Website: https://komokaductcleaning.ca
+
+## Key pages
+
+- [Home](https://komokaductcleaning.ca/): Komoka Duct Cleaning homepage with service overview and FAQ
+- [About](https://komokaductcleaning.ca/about/): About the company and service area
+- [Contact](https://komokaductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://komokaductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Komoka, Ontario
+- [Dryer Vent Cleaning](https://komokaductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Komoka, Ontario
+- [Furnace & AC Cleaning](https://komokaductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Komoka, Ontario
+- [HRV & Ventilation Cleaning](https://komokaductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Komoka, Ontario
+- [Duct Sanitizing & Deodorizing](https://komokaductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Komoka, Ontario
+- [Duct Sealing & Repair](https://komokaductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Komoka, Ontario
+- [Commercial Duct Cleaning](https://komokaductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Komoka, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Komoka are answered on the homepage.
